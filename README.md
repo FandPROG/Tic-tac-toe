@@ -1,2 +1,3 @@
-MINIMAX ALGORITHM
-Tic Tac Toe!
+#Tic Tac Toe!
+
+##USING MINIMAX Algorithm
