@@ -1,1 +1,2 @@
+MINIMAX ALGORITHM
 Tic Tac Toe!
