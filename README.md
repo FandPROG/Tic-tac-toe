@@ -1,3 +1,3 @@
-#Tic Tac Toe!
+# Tic Tac Toe!
 
-##USING MINIMAX Algorithm
+## USING MINIMAX Algorithm
